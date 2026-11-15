@@ -15,8 +15,8 @@ Nach dem Konzept steht der Preis. Code, Daten und Dokumentation gehören am Ende
 |---|---|
 | [Apps](https://stint.media/apps?utm_source=github&utm_medium=social&utm_campaign=profil) | für iPhone und Android |
 | [Web-Apps und Software](https://stint.media/web-apps?utm_source=github&utm_medium=social&utm_campaign=profil) | Portale, interne Werkzeuge, Kundenbereiche |
-| [Websites](https://stint.media/websites?utm_source=github&utm_medium=social&utm_campaign=profil) | mit Redaktionssystem, das Sie selbst pflegen |
-| [Eigene Cloud](https://stint.media/eigene-cloud?utm_source=github&utm_medium=social&utm_campaign=profil) | Dateien, Kalender und Dokumente auf eigenen Servern |
+| [Websites](https://stint.media/websites?utm_source=github&utm_medium=social&utm_campaign=profil) | Aufbau, Texte, Gestaltung und Technik aus einer Hand |
+| [Eigene Cloud](https://stint.media/eigene-cloud?utm_source=github&utm_medium=social&utm_campaign=profil) | Dateien und Abläufe auf einem Server, über den Sie bestimmen |
 
 ## Wie wir arbeiten
 
